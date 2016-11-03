@@ -1,4 +1,4 @@
-{ "name": "busbud-passbook",
+{ "name": "node-passbook",
   "description": "iOS Passbook for the Node hacker fork of npm module passbook",
   "homepage": "https://github.com/busbud/node-passbook",
   "version": "1.0.1",
