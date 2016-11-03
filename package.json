@@ -1,6 +1,6 @@
 { "name": "node-passbook",
   "description": "iOS Passbook for the Node hacker fork of npm module passbook",
-  "homepage": "https://github.com/busbud/node-passbook",
+  "homepage": "https://github.com/emilioriosvz/node-passbook",
   "version": "1.0.1",
   "main": "./lib/index.js",
   "bin": {
@@ -24,14 +24,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/busbud/node-passbook.git"
+    "url": "git://github.com/emilioriosvz/node-passbook.git"
   },
-  "bugs": {
-    "url": "http://github.com/busbud/node-passbook/issues"
+  "bugs": { 
+    "url": "github.com/emilioriosvz/node-passbook/issues"
   },
   "licenses": [
     { "type": "MIT",
-      "url": "http://github.com/busbud/node-passbook/blob/master/MIT-LICENSE"
+      "url": "http://github.com/emilioriosvz/node-passbook/blob/master/MIT-LICENSE"
     }
   ]
 }
